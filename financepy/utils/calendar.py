@@ -70,6 +70,7 @@ class CalendarTypes(Enum):
     TARGET = 13
     UNITED_STATES = 14
     UNITED_KINGDOM = 15
+    KOREA = 16
 
 
 class DateGenRuleTypes(Enum):
